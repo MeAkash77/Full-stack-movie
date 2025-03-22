@@ -1,6 +1,7 @@
 # MoonFlix
 
-    Fullstack Responsive Movie Website 2022
+    Fullstack Responsive Movie Website
+    
 ## Getting Started
 
 To use the Music Streaming Website, simply click on the following link: [Full-stack-movie](https://akash77-full-stack-movie-api.vercel.app/)

@@ -3,7 +3,7 @@
     Fullstack Responsive Movie Website 2022
 ## Getting Started
 
-To use the Music Streaming Website, simply click on the following link: [Full-stack-movie](https://full-stack-movie-api.vercel.app/)
+To use the Music Streaming Website, simply click on the following link: [Full-stack-movie](https://akash77-full-stack-movie-api.vercel.app/)
 
 # Resource
 
@@ -33,3 +33,23 @@ To use the Music Streaming Website, simply click on the following link: [Full-st
 !["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323098-dfa74553-78a8-4809-a7a7-cd569c3b3f6c.png "Fullstack Responsive Movie Website 2022")
 
 !["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323021-0b5657d2-8913-4b81-8c1b-d4ceef065ee6.png "Fullstack Responsive Movie Website 2022")
+
+# Development and Future Plans
+
+This full-stack movie website has been a labor of love, developed by a single developer over the course of more than a month. The frontend alone required countless hours of work, with many bugs and challenges along the way. Despite these obstacles, the end result is a beautiful and intuitive platform that offers free access to movie information and streaming details to users worldwide.
+
+As a beginner, developing this movie website has been both incredibly challenging and deeply rewarding. Throughout this project, I have gained valuable experience working with technologies such as MongoDB, Express, React, and Node.js, while also improving my skills in HTML, CSS, and JavaScript.
+
+Looking ahead, I am excited to continue developing this platform and introducing new features to enhance the user experience. Some of the features I am considering for the future include:
+
+Social Features: Enabling users to follow each other and share their favorite movies and watchlists with friends.
+
+Reviews & Ratings: Allowing users to leave reviews and rate movies to help others make informed viewing choices.
+
+User Feedback: Providing users with a way to suggest new features and improvements to enhance the website's usability.
+
+Social Sharing: Enabling users to share their favorite movies, reviews, and ratings on social media platforms like Facebook, Twitter, and Instagram.
+
+Developing these features will require significant effort, but I am excited about the challenge and fully committed to refining and improving this movie website for the benefit of its users.
+
+Thank you for your support, and stay tuned for more updates and improvements in the future!
